@@ -1,1 +1,10 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.nexochat.app","sha256_cert_fingerprints":["272D7A0C2A5CA8AAE45442EA449DA39C1B3B58DD201BCD492F3E5E313F174B14"]}}]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nexochat.app",
+    "sha256_cert_fingerprints": [
+      "27:2D:7A:0C:2A:5C:A8:AA:E4:54:42:EA:44:9D:A3:9C:1B:3B:58:DD:20:1B:CD:49:2F:3E:5E:31:3F:17:4B:14"
+    ]
+  }
+}]
